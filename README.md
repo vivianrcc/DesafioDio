@@ -2,7 +2,7 @@ Instruções para entrega
 
 # 3️⃣ Escrevendo as classes de um Jogo
 
-**O Que deve ser utilizado**
+**O Que deve ser utilizado:**
 
 - Variáveis
 - Operadores
