@@ -29,8 +29,11 @@
     
     // Exemplo de uso da classe
     
-    let heroi1 = new Heroi('magoheroi', 30, 'mago');
+    let heroi1 = new Heroi('magoheroi',70,  'mago');
     heroi1.atacar(); // Saída: O mago atacou usando magia
     
-    let heroi2 = new Heroi('guerreiroheroi', 35, 'guerreiro');
+    let heroi2 = new Heroi('guerreiroheroi',80,  'guerreiro');
     heroi2.atacar(); // Saída: O guerreiro atacou usando espada
+     
+    let heroi3 = new Heroi('ninjaguerreiro',90,'ninja');
+    heroi3.atacar(); // saida: o guerreiro atacou usando espada 
